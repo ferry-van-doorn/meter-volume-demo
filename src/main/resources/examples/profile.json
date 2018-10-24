@@ -1,0 +1,17 @@
+{
+  "profile": "A",
+  "fractions": {
+    "JANUARY": 0.10,
+    "FEBRUARY": 0.10,
+    "MARCH": 0.10,
+    "APRIL": 0.10,
+    "MAY": 0.05,
+    "JUNE": 0.05,
+    "JULY": 0.05,
+    "AUGUST": 0.05,
+    "SEPTEMBER": 0.10,
+    "OCTOBER": 0.10,
+    "NOVEMBER": 0.10,
+    "DECEMBER": 0.10
+  }
+}

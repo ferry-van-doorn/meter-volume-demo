@@ -1,0 +1,19 @@
+{
+  "meterId": "0001",
+  "profileId": "1",
+  "year": "2017",
+  "readings": {
+    "JANUARY": 40,
+    "FEBRUARY": 80,
+    "MARCH": 120,
+    "APRIL": 160,
+    "MAY": 180,
+    "JUNE": 200,
+    "JULY": 220,
+    "AUGUST": 240,
+    "SEPTEMBER": 280,
+    "OCTOBER": 320,
+    "NOVEMBER": 360,
+    "DECEMBER": 400
+  }
+}
