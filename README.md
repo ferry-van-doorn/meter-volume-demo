@@ -81,7 +81,10 @@ cp ./src/main/resources/examples/meterreading.csv /tmp
 ```
 
 ## Todo
+* The processed meter reading CSV file should be deleted.
+* The error reporting of the CSV file processing should be exported to a external file in the same path as the CSV.
+* Add feature to read the old CSV-file with profile information.
 * Add validation to check uniqueness constraints. Currently a profile with a similar name 
 or meter readings for the year which are already upload is only checked with a database constraint.
 Currently this results in a HTTP 500 error with an unclear error message. 
-* Add feature to read the old CSV-file with profile information.
+
